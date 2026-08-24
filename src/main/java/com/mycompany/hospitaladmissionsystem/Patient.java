@@ -6,7 +6,7 @@ package com.mycompany.hospitaladmissionsystem;
 
 /**
  *
- * @author Harvard Keyz
+ * @author Kabelo Mogale
  */
 public class Patient {
 
